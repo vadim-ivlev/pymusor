@@ -9,6 +9,9 @@ class myclass(object):
         pass
 
 m = myclass()
+
+
+
 print(m)
 
 
